@@ -1,6 +1,2 @@
-# Fireworks
-
-This is a fireworks js simulator.
-
-## Demo
+# Demo
 [Fiddle](https://jsfiddle.net/spockthegreat/gwyvwvg9/)
